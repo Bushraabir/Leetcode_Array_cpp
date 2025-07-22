@@ -1,4 +1,4 @@
-📘 Leetcode_Array_cpp
+# 📘 Leetcode_Array_cpp
 
 This repository contains C++ solutions to array-related problems from LeetCode's official Array problem list.Each solution is written with clean code, proper comments, and optimal algorithms where possible.
 
@@ -25,26 +25,6 @@ In-place operations
 Kadane’s algorithm
 
 Subarrays, rotations, and more
-
-🛠️ Structure
-
-Leetcode_Array_cpp/
-│
-├── Easy/
-│   ├── 026_Remove_Duplicates.cpp
-│   ├── 027_Remove_Element.cpp
-│   └── ...
-│
-├── Medium/
-│   ├── 035_Search_Insert_Position.cpp
-│   ├── ...
-│
-├── Hard/
-│   ├── ...
-│
-└── README.md
-
-
 
 
 🧹 Resources
